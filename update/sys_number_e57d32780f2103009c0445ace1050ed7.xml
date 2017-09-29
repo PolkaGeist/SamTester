@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_162706_sam_teste_x_162706_samtester">x_162706_sam_teste_x_162706_samtester</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>SAM</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-29 13:31:15</sys_created_on>
+        <sys_id>e57d32780f2103009c0445ace1050ed7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SAM</sys_name>
+        <sys_package display_value="Sam Tester" source="x_162706_sam_teste">fdfcbab40f2103009c0445ace1050eef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sam Tester">fdfcbab40f2103009c0445ace1050eef</sys_scope>
+        <sys_update_name>sys_number_e57d32780f2103009c0445ace1050ed7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-29 13:31:15</sys_updated_on>
+    </sys_number>
+</record_update>
